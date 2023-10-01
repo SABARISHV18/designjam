@@ -1,0 +1,47 @@
+body{
+    background-image:url('./background.png');
+    background-size:contain;
+    background-repeat:repeat-x;
+    background-color: black;
+    
+}
+.content-first{
+    
+  text-orientation: mixed;
+}
+.content
+{
+    display: flex;
+    justify-content:space-around;
+    background-color: black;
+    height: 720px;
+}
+.first,.last{
+    color: rgb(243, 204, 9);
+    font-size: larger;
+}
+.middle
+{
+    color: white;
+}
+.middle1{
+    color: white;
+}
+.text
+{
+    margin-top: 100px;
+}
+.image{
+    margin-top: 100px;
+}
+.content1
+{
+    display: flex;
+    justify-content:space-around;
+    background-color: black;
+    height: 720px;
+}
+
+span {
+  content: "\2192";
+}
